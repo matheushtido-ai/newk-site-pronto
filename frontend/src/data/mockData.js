@@ -11,45 +11,31 @@ export const companyInfo = {
 export const services = [
   {
     id: 1,
-    title: "Custom Trim & Molding",
-    description: "Elegant custom trim work and crown molding that adds character and value to your home.",
-    features: ["Crown Molding", "Baseboards", "Chair Rails", "Custom Profiles"],
-    image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&h=600"
-  },
-  {
-    id: 2,
     title: "Door & Window Installation",
     description: "Precision door and window fitting with flawless finishes and expert craftsmanship.",
     features: ["Interior Doors", "Exterior Doors", "Window Trim", "Hardware Installation"],
     image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=800&h=600"
   },
   {
-    id: 3,
+    id: 2,
     title: "Custom Cabinetry",
     description: "Handcrafted cabinets and built-ins designed to maximize space and enhance functionality.",
     features: ["Kitchen Cabinets", "Built-in Storage", "Entertainment Centers", "Custom Shelving"],
     image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=800&h=600"
   },
   {
-    id: 4,
-    title: "Hardwood Flooring",
-    description: "Beautiful hardwood flooring installation and refinishing services.",
-    features: ["Floor Installation", "Refinishing", "Repair Work", "Custom Staining"],
-    image: "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?auto=format&fit=crop&w=800&h=600"
-  },
-  {
-    id: 5,
+    id: 3,
     title: "Custom Staircases",
     description: "Elegant custom staircases and railings that serve as architectural focal points.",
     features: ["Stair Construction", "Handrails", "Balusters", "Refinishing"],
-    image: "https://images.unsplash.com/photo-1460576262340-1ad84e662df9?auto=format&fit=crop&w=800&h=600"
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&h=600"
   },
   {
-    id: 6,
+    id: 4,
     title: "Deck & Outdoor Carpentry",
     description: "Custom outdoor carpentry including decks, pergolas, and outdoor living spaces.",
     features: ["Custom Decks", "Pergolas", "Outdoor Kitchens", "Fencing"],
-    image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&h=600"
+    image: "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=800&h=600"
   }
 ];
 
