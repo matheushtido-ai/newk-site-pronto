@@ -54,22 +54,12 @@ const Footer = () => {
             <ul className="space-y-3">
               <li>
                 <a href="#services" className="text-gray-300 hover:text-amber-400 transition-colors duration-200">
-                  Custom Trim & Molding
-                </a>
-              </li>
-              <li>
-                <a href="#services" className="text-gray-300 hover:text-amber-400 transition-colors duration-200">
                   Door & Window Installation
                 </a>
               </li>
               <li>
                 <a href="#services" className="text-gray-300 hover:text-amber-400 transition-colors duration-200">
                   Custom Cabinetry
-                </a>
-              </li>
-              <li>
-                <a href="#services" className="text-gray-300 hover:text-amber-400 transition-colors duration-200">
-                  Hardwood Flooring
                 </a>
               </li>
               <li>
