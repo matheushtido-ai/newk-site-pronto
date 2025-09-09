@@ -121,19 +121,11 @@ export const portfolioProjects = [
     title: "Custom Staircase & Railing",
     category: "Stairs",
     location: "Waterbury, CT", 
-    image: "https://images.unsplash.com/photo-1460576262340-1ad84e662df9?auto=format&fit=crop&w=800&h=600",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&h=600",
     description: "Elegant curved staircase with custom handrail and balusters"
   },
   {
     id: 3,
-    title: "Hardwood Floor Installation",
-    category: "Flooring",
-    location: "Middlebury, CT",
-    image: "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?auto=format&fit=crop&w=800&h=600", 
-    description: "Premium oak hardwood flooring with custom staining"
-  },
-  {
-    id: 4,
     title: "Built-in Entertainment Center",
     category: "Built-ins",
     location: "Southbury, CT",
@@ -141,19 +133,27 @@ export const portfolioProjects = [
     description: "Custom built-in entertainment center with integrated lighting"
   },
   {
-    id: 5,
+    id: 4,
     title: "Outdoor Deck & Pergola", 
     category: "Outdoor",
     location: "Naugatuck, CT",
-    image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&h=600",
+    image: "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=800&h=600",
     description: "Custom cedar deck with attached pergola and outdoor kitchen"
   },
   {
-    id: 6,
-    title: "Crown Molding Installation",
-    category: "Trim",
+    id: 5,
+    title: "Door Installation Project",
+    category: "Doors",
     location: "Waterbury, CT",
     image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=800&h=600",
-    description: "Intricate crown molding and wainscoting installation"
+    description: "Professional door installation with custom hardware"
+  },
+  {
+    id: 6,
+    title: "Custom Cabinet Installation",
+    category: "Cabinetry",
+    location: "Middlebury, CT",
+    image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=800&h=600",
+    description: "Custom kitchen cabinets with premium finishes"
   }
 ];
