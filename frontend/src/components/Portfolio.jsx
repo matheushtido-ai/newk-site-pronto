@@ -4,7 +4,7 @@ import { ArrowRight } from "lucide-react";
 
 const Portfolio = () => {
   const [filter, setFilter] = useState("All");
-  const categories = ["All", "Kitchen", "Stairs", "Flooring", "Built-ins", "Outdoor", "Trim"];
+  const categories = ["All", "Kitchen", "Stairs", "Built-ins", "Outdoor", "Doors", "Cabinetry"];
 
   const filteredProjects = filter === "All" 
     ? portfolioProjects 
