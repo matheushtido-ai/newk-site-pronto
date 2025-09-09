@@ -9,9 +9,12 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <div className="flex-shrink-0">
-            <h1 className="text-2xl font-bold text-gray-900">NEWK LLC</h1>
-            <p className="text-xs text-gray-600 -mt-1">Fine Carpentry</p>
+          <div className="flex-shrink-0 flex items-center">
+            <img 
+              src="https://customer-assets.emergentagent.com/job_naugatuck-woodwork/artifacts/dam0sqae_Logotipo%20Para%20Podcast%20Minimalista%20Roxo%20E%20Preto%20-%201.png"
+              alt="NEWK LLC Logo"
+              className="h-12 w-auto"
+            />
           </div>
 
           {/* Desktop Navigation */}
