@@ -14,21 +14,21 @@ export const services = [
     title: "Door & Window Installation",
     description: "Precision door and window fitting with flawless finishes and expert craftsmanship.",
     features: ["Interior Doors", "Exterior Doors", "Window Trim", "Hardware Installation"],
-    image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=800&h=600"
+    image: "https://customer-assets.emergentagent.com/job_naugatuck-woodwork/artifacts/rd5gon4q_service-man-installing-window-with-measure-tape-photo.jpg"
   },
   {
     id: 2,
     title: "Custom Cabinetry",
     description: "Handcrafted cabinets and built-ins designed to maximize space and enhance functionality.",
     features: ["Kitchen Cabinets", "Built-in Storage", "Entertainment Centers", "Custom Shelving"],
-    image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=800&h=600"
+    image: "https://customer-assets.emergentagent.com/job_naugatuck-woodwork/artifacts/uhpm5eze_custom-cabinetry-granite-countertops-600nw-2651096083.webp"
   },
   {
     id: 3,
     title: "Custom Staircases",
     description: "Elegant custom staircases and railings that serve as architectural focal points.",
     features: ["Stair Construction", "Handrails", "Balusters", "Refinishing"],
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&h=600"
+    image: "https://customer-assets.emergentagent.com/job_naugatuck-woodwork/artifacts/c0kh417u_marble-staircase-.jpg"
   },
   {
     id: 4,
