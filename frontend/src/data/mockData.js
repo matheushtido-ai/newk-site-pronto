@@ -113,16 +113,16 @@ export const portfolioProjects = [
     title: "Colonial Kitchen Renovation",
     category: "Kitchen",
     location: "Naugatuck, CT",
-    image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=800&h=600",
-    description: "Complete kitchen renovation with custom cabinetry and crown molding"
+    image: "https://customer-assets.emergentagent.com/job_naugatuck-woodwork/artifacts/uhpm5eze_custom-cabinetry-granite-countertops-600nw-2651096083.webp",
+    description: "Complete kitchen renovation with custom cabinetry and granite countertops"
   },
   {
     id: 2,
     title: "Custom Staircase & Railing",
     category: "Stairs",
     location: "Waterbury, CT", 
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&h=600",
-    description: "Elegant curved staircase with custom handrail and balusters"
+    image: "https://customer-assets.emergentagent.com/job_naugatuck-woodwork/artifacts/c0kh417u_marble-staircase-.jpg",
+    description: "Elegant marble staircase with custom iron railing and balusters"
   },
   {
     id: 3,
@@ -145,15 +145,15 @@ export const portfolioProjects = [
     title: "Door Installation Project",
     category: "Doors",
     location: "Waterbury, CT",
-    image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=800&h=600",
-    description: "Professional door installation with custom hardware"
+    image: "https://customer-assets.emergentagent.com/job_naugatuck-woodwork/artifacts/rd5gon4q_service-man-installing-window-with-measure-tape-photo.jpg",
+    description: "Professional door and window installation with precision measuring"
   },
   {
     id: 6,
     title: "Custom Cabinet Installation",
     category: "Cabinetry",
     location: "Middlebury, CT",
-    image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=800&h=600",
-    description: "Custom kitchen cabinets with premium finishes"
+    image: "https://customer-assets.emergentagent.com/job_naugatuck-woodwork/artifacts/uhpm5eze_custom-cabinetry-granite-countertops-600nw-2651096083.webp",
+    description: "Custom kitchen cabinets with granite countertops and premium finishes"
   }
 ];
